@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="About_Description">IMC App is an application developed in Kotlin for educational purposes. All the
+    </string>
+    <string name="about_Title">         code can be downloaded from Github in:</string>
+    <string name="ingrese_su_peso">  https://github.com/manasesortez/parcial_2</string>
+    <string name="app_name">Test</string>
+    <string name="lblMenuAbouUs">About</string>
+    <string name="btnCalcular">calculate</string>
+    <string name="imc_resultado">IMC:</string>
+    <string name="ingrese_su_altura">Enter your height:</string>
+    <string name="resultado">Result</string>
+</resources>

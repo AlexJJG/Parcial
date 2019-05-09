@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="ingrese_su_peso">Ingrese su peso:</string>
+    <string name="ingrese_su_altura">Ingrese su altura:</string>
+    <string name="imc_resultado">IMC:</string>
+    <string name="resultado">Resultado:</string>
+    <string name="about_Title">IMC</string>
+    <string name="About_Description">IMC App es una aplicación desarrollada en Kotlin con fines educativos. Todo el
+        código puede ser descargado de Github en:\n\n https://github.com/manasesortez/parcial_2 \n\n Los Estudiantes desarrolladores son:\n
+        \n\n Susana Nohemy Ramos Beltran ---u20170671  \n
+        \n Josue Alexander Joya--------u20170880 \n
+        \n sheyla Marisol Guidos Berrios --------u20170254 \n
+    </string>
+    <string name="lblMenuAbouUs">Acerca de</string>
+</resources>
